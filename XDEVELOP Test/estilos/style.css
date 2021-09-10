@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "FontAwesome";
+    src: url("fontawesome-webfont.woff");
+  }
+  
+  p {
+    font-family: "FontAwesome", sans-serif;
+    font-size: 200%;
+  }
